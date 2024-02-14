@@ -1,6 +1,6 @@
 # If you need to merge specific data in one box row by row
 # TRY TO USE THIS
-# EXAMPLE ---> 
+# EXAMPLE ---> https://docs.google.com/spreadsheets/d/1edr-9uJ9Midz9WSeiLM_npn9CdI9coHzrNCRT58RGcU/edit?usp=sharing
 
 
 ### 有開預購商品種多的話可以用這個Program跑一下，
